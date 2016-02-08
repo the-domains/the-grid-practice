@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Grid Practice]]></title>
         <description><![CDATA[The Grid Practice]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-grid-practice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 08:13:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 08:15:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-grid-practice/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a new post</p>]]></description>
-            <link>undefined8ea6f855-cd4b-4005-8e6e-d91554893a95/index.html</link>
+            <link>https://thegrid.ai/the-grid-practice/8ea6f855-cd4b-4005-8e6e-d91554893a95/index.html</link>
             <guid isPermaLink="false">8ea6f855-cd4b-4005-8e6e-d91554893a95</guid>
-            <pubDate>Mon, 08 Feb 2016 08:13:40 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 08:14:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

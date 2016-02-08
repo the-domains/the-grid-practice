@@ -1,0 +1,28 @@
+name: The Grid Practice
+favicon: null
+layout_spectrum: 0.9006039306987077
+typography_spectrum: 0.7189892446622252
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.15221575740724802
+  lightness: 0.46841247915290296
+  saturation: 0.09824687498621643
+  rhythmicContrast: 0.19857696443796158
+purpose: []
